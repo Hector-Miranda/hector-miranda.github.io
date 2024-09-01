@@ -17,6 +17,8 @@ In that regard, find below some artists I admire:
 - [Litterbox Comics](https://www.litterboxcomics.com/)
   <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ThrowbackThursday?src=hash&amp;ref_src=twsrc%5Etfw">#ThrowbackThursday</a>: The 5 Stages of Getting Your Kid to Eat His @*!%ing Dinner<br><br>BONUS Panel below 👇<br><br>(if it&#39;s not there yet it&#39;s because I&#39;m running around like a headless chicken getting stuff ready for Comicpalooza) <a href="https://t.co/Ib7Ajz0ag7">pic.twitter.com/Ib7Ajz0ag7</a></p>&mdash; Litterbox Comics KICKSTARTER is LIVE! (@LitterboxComics) <a href="https://twitter.com/LitterboxComics/status/1793688349841965067?ref_src=twsrc%5Etfw">May 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - [they can talk](https://theycantalk.com/)
+
+  [![stay calm](https://64.media.tumblr.com/d91a7db2a023f8c1ff12a9a0bac4354e/tumblr_olnh0q8Fx11uacv0ho1_540.jpg)](https://theycantalk.com/post/157464155650/stay-calm)
 - [Sarah Andersen](https://sarahcandersen.com/)
 - [War and Peas](https://warandpeas.com/)
 - [Hannah Hillam](https://hannahhillam.com/)
