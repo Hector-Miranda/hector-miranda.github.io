@@ -1,6 +1,6 @@
 # `whoami`
 
-Complete professional experience and credentials are listed in my [LinkedIn profile](https://www.linkedin.com/in/hectormmiranda/).
+Complete professional experience and credentials are listed in my [LinkedIn profile](https://www.linkedin.com/in/hectormmiranda/). You won't find a lot in my [GitHub profile](https://github.com/Hector-Miranda) because the contributions were made to private repositories.
 
 Early in career I worked as a consultant for several companies, using a variety of stacks and with customers in very different industries. Nowadays, I am a FTE at Microsoft working on (internal) tools for other developers.
 
