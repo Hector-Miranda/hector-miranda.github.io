@@ -1,0 +1,55 @@
+---
+---
+
+@import "{{ site.theme }}";
+/* https://dev.to/michael-gokey/flip-for-knowledge-building-a-flashcard-game-with-html-css-javascript-3o9j */
+/* https://codepen.io/Michael-Gokey/pen/XJJPVZZ */
+
+#flashcard-container {
+  display: flex;
+  flex-wrap: wrap;
+  // gap: 20px;
+  gap: 10px;
+  justify-content: center;
+}
+
+.card {
+  width: 200px;
+  height: 150px;
+  perspective: 1000px;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+.card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.card.flipped .card-inner {
+  transform: rotateY(180deg);
+}
+
+.card-front,
+.card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  // padding: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  background: black;
+}
+
+.card-back {
+  background: darkslategray;
+  transform: rotateY(180deg);
+}
